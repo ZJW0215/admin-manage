@@ -1,0 +1,19 @@
+{
+  "name": "admin-manage",
+  "version": "1.0.0",
+  "description": "电商后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZJW0215/admin-manage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZJW0215/admin-manage/issues"
+  },
+  "homepage": "https://github.com/ZJW0215/admin-manage#readme"
+}
