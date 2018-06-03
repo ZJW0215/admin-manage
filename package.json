@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZJW0215/admin-manage.git"
+    "url": "git+https://github.com/ZJW0215/adminManage.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZJW0215/admin-manage/issues"
+    "url": "https://github.com/ZJW0215/adminManage/issues"
   },
-  "homepage": "https://github.com/ZJW0215/admin-manage#readme"
+  "homepage": "https://github.com/ZJW0215/adminManage#readme"
 }
